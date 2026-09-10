@@ -116,13 +116,13 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-baviskar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kotkarsanketmohan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-baviskar&custom_title=Krishna's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kotkarsanketmohan&custom_title=Sanket's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
