@@ -1,15 +1,18 @@
-# 👋 Hi, I'm Sanket Mohan Kotkar
+<div align="center">
 
-### 💻 Full Stack Java Developer | Computer Engineering Student | Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SK%20%7C%20Sanket%20Kotkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Java%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16"/>
 
-<p align="center">
-  <a href="https://github.com/kotkarsanketmohan">
-    <img src="https://komarev.com/ghpvc/?username=kotkarsanketmohan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/u/kotkarsanketmohan/">
-    <img src="https://img.shields.io/badge/LeetCode-230%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&random=false\&width=700\&lines=☕+Java+Developer;💻+Full-Stack+Developer;🚀+Building+Scalable+Applications;🤖+AI+%26+ML+Explorer;🌐+Backend+%26+Web+Development;⚡+Code.+Build.+Innovate.)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sanketkotkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/sanketkotkar?style=for-the-badge&logo=github&color=0e75b6&labelColor=0D1117&label=Followers" alt="GitHub Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/sanketkotkar?style=for-the-badge&logo=github&color=0e75b6&labelColor=0D1117&label=Stars" alt="GitHub Stars"/>
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/sanketk05">
