@@ -100,12 +100,21 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kotkarsanketmohan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=kotkarsanketmohan&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=kotkarsanketmohan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=kotkarsanketmohan&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotkarsanketmohan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotkarsanketmohan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
+  />
 </p>
 
 ---
