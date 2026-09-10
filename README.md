@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=kotkarsanketmohan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/u/kotkarsanketmohan/">
-    <img src="https://img.shields.io/badge/LeetCode-231%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-230%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Computer Engineering student at **Dr. D. Y. Patil College of Engineering, Akurdi
 - 🗄️ **MySQL, MongoDB, SQLite, Firebase**
 - ☁️ **Docker, Kubernetes, Cloud Computing**
 - 🤖 **AI & Machine Learning**
-- 🧠 **231+ LeetCode problems solved**
+- 🧠 **230+ LeetCode problems solved**
 - 💼 Open to **Software Engineering Internships and Opportunities**
 
 ---
@@ -93,7 +93,7 @@ Building end-to-end applications using **React + Spring Boot + REST APIs + MySQL
 Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciPy, and Matplotlib**.
 
 ### Data Structures & Algorithms
-**231+ LeetCode problems solved**, with focus on Arrays, Strings, Hashing, Linked Lists, Stack & Queue, Recursion, Binary Search, Trees, Greedy Algorithms, and Dynamic Programming.
+**230+ LeetCode problems solved**, with focus on Arrays, Strings, Hashing, Linked Lists, Stack & Queue, Recursion, Binary Search, Trees, Greedy Algorithms, and Dynamic Programming.
 
 ---
 
