@@ -100,13 +100,8 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotkarsanketmohan&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotkarsanketmohan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kotkarsanketmohan&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kotkarsanketmohan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotkarsanketmohan&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotkarsanketmohan&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -118,8 +113,6 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
     <img src="https://leetcard.jacoblin.cool/kotkarsanketmohan?theme=dark&font=baloo&ext=heatmap" />
   </a>
 </p>
-
----
 
 ## 📈 Streak & Contribution Overview
 
