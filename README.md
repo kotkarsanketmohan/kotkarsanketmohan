@@ -127,8 +127,6 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
   <img src="https://streak-stats.demolab.com?user=kotkarsanketmohan&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 🎯 Current Focus
 
 **Java & Spring Boot** → **REST APIs** → **Database Design** → **Docker & Kubernetes** → **Cloud Computing** → **AI Integration**
