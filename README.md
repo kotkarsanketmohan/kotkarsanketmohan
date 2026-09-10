@@ -100,14 +100,13 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kotkarsanketmohan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=kotkarsanketmohan&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotkarsanketmohan&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotkarsanketmohan&theme=tokyonight" />
 </p>
 
-<!-- Alternative Stats Card if github-readme-stats fails -->
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotkarsanketmohan&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotkarsanketmohan&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kotkarsanketmohan&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kotkarsanketmohan&theme=tokyonight" />
 </p>
 
 ---
@@ -122,18 +121,10 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Streak & Contribution Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kotkarsanketmohan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kotkarsanketmohan&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kotkarsanketmohan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
