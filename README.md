@@ -106,6 +106,26 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotkarsanketmohan&theme=tokyonight" width="80%" />
 </p>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishna-baviskar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-baviskar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-baviskar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-baviskar&custom_title=Krishna's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
 ---
 
 ## 🧠 LeetCode
