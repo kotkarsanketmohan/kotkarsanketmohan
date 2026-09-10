@@ -100,8 +100,10 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotkarsanketmohan&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotkarsanketmohan&theme=tokyonight" width="48%", height="68%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotkarsanketmohan&theme=tokyonight" width="80%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotkarsanketmohan&theme=tokyonight" width="80%" />
 </p>
 
 ---
