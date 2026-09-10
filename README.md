@@ -114,11 +114,18 @@ Developing practical solutions using **Python, NumPy, Pandas, Scikit-Learn, SciP
   </a>
 </p>
 
-## 📈 Streak & Contribution Overview
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kotkarsanketmohan&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=kotkarsanketmohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=kotkarsanketmohan&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kotkarsanketmohan&theme=dark&hide_border=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kotkarsanketmohan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+### 🔝 Top Contributed Repo
 
 ## 🎯 Current Focus
 
